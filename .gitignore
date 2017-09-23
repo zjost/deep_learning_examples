@@ -3,3 +3,4 @@ data/
 *.csv
 *.png
 */MNIST_data/
+*/model*
